@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 詳細ページ
-permalink: /details/
+permalink: /details1/
 ---
 
 # 詳細ページ
